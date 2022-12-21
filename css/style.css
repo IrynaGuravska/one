@@ -1,4 +1,12 @@
 h1, h3, p{
+<<<<<<< HEAD
   text-align: center;
   
 }
+=======
+text-align: center;
+}
+h1 {
+color: blue;
+}
+>>>>>>> 9af2d6a590043787b753954513e726a5664b54fa
