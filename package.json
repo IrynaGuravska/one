@@ -1,0 +1,25 @@
+{
+  "name": "lerning-git-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init-project": "npm install"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrynaGuravska/one.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrynaGuravska/one/issues"
+  },
+  "homepage": "https://github.com/IrynaGuravska/one#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.11",
+    "html-validate": "^7.11.1"
+  }
+}
